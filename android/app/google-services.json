@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855291841149",
+    "project_id": "peliculas-moviles3",
+    "storage_bucket": "peliculas-moviles3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855291841149:android:73ae664f05f5bce78b3f14",
+        "android_client_info": {
+          "package_name": "com.example.taller_uno"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDMUfxOA8lpQPLgkO8BxoJHcRT0cQBS2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
